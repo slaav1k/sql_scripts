@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="11252b4e-8c76-4f33-a82f-84f281b721ad" name="leetcode@localhost Mapping">
+      <data-sources db="6544087d-aaa9-47f1-9482-04929cce4be5" ddl="a992192c-1921-4721-ba7e-7fb97e6957cf" />
+      <scope>
+        <node kind="database" qname="@" />
+      </scope>
+    </mapping>
+  </component>
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="a992192c-1921-4721-ba7e-7fb97e6957cf" />
+          <option name="name" value="leetcode@localhost (DDL)" />
+          <option name="dbmsName" value="POSTGRES" />
+          <option name="urls">
+            <array />
+          </option>
+          <option name="outLayout" value="File per object by schema.groovy" />
+        </State>
+      </list>
+    </option>
+  </component>
+</project>
